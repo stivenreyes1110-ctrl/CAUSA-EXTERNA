@@ -1,0 +1,6 @@
+node_modules/
+bk causa externa/node_modules/
+fd causa externa/node_modules/
+fd causa externa/dist/
+.env
+npm-debug.log*
